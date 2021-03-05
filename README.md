@@ -8,3 +8,7 @@ The aim is to add the missing snipers from IV to GTA V
 
 Install:
 drop the .dll, .pdb and .ini inside the scripts folder in your GTA V directory.
+
+UPDATE 1.1:
+Added more locations where snipers can spawn
+Added source code, so you can add some locations yourself
